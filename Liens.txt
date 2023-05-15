@@ -1,0 +1,5 @@
+Liens du site de formation:
+https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/
+
+Niveau:
+https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/serve-json-on-a-specific-route
